@@ -97,8 +97,8 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 For any queries or collaboration:
 
-* LinkedIn: [Your Profile Link]  
-* Email: [Your Email]  
+* LinkedIn: [https://www.linkedin.com/in/saketh-naidu-a81235322/]  
+* Email: [ krishnasaketh46@gmail.com ]  
 
 ---
 
